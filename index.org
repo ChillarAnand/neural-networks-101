@@ -1,0 +1,169 @@
+#+STARTUP: showall
+
+#+OPTIONS: num:nil
+#+OPTIONS: toc:nil reveal_mathjax:t
+
+#+REVEAL_ROOT: file:///home/anand/.emacs.d/vendor/reveal.js/
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/reveal.js/3.0.0/
+
+
+#+REVEAL_TRANS: linear
+#+REVEAL-SLIDE-NUMBER: t
+#+REVEAL_THEME: simple
+
+#+BIND: org-confirm-babel-evaluate nil
+
+
+** How to teach neural networks (deep learning) to your grandma?
+
+** Requirements
+
+Curiosity - To learn about neural networks.
+
+Patience - It takes time to train networks.
+
+
+** Ask Questions
+
+- Raise your hands
+
+- Standup
+
+- Throw something
+
+** Quiz
+
+- Formula to convert miles to kilometers?
+
+- Formula to convert celsius to farenheit?
+
+- Formula to convert non-swimmer to swimmer?
+
+
+** Tacit Knowledge
+
+Difficult to transfer to another person by writing/verbalizing.
+
+Ex: Driving, Swimming
+
+
+
+** How tacit knowledge is acquired?
+
+- By practice and learning
+
+** Sytems
+
+
+- Open Loop Systems
+Ex: Flash light in phone
+
+- Closed Loop System
+Ex: Auto brightness in phone
+
+
+** Closed Loop System
+
+- They can contain tacit knowledge.
+
+- They learn things.
+
+- They can preserve learning.
+
+
+
+** Why machines need to learn?
+
+- They know only 0 & 1.
+
+- Humans wanted machines to solve complex problems.
+
+- Very hard to write python program to recognise images.
+
+
+** How to make machines learn?
+
+- Biology inspired design
+
+
+** Design a system which can learn
+
+
+** Learning System v1
+
+- Convert miles to kilometers
+
+
+** Learning System v1
+
+- Single node
+
+- Not enough for real world problems
+
+- Need more nodes
+
+- Average value which satisfies of all input data
+
+
+** Learning System v2
+
+- Solve linear equations
+
+
+** Learning System v2
+
+- Multi node
+
+- Classical xor problem
+
+- Need more layers
+
+
+
+** Learning System v3
+
+- Digit recogniser
+
+
+** Learning System v3
+
+- Mutli layer, multi node
+
+- Good enough for real world problems
+
+
+
+** Summary
+
+- Learning how neural networks work is easy
+
+- Training neural networks for good accuracy is hard
+
+
+
+** Resources
+
+- https://stats.stackexchange.com/questions/tagged/neural-networks
+
+- https://github.com/josephmisiti/awesome-machine-learning
+
+- https://makeyourownneuralnetwork.blogspot.in/
+
+
+
+
+
+* test
+
+** The Real Threat of Intelligent Machines
+
+They perform better than humans in may tasks.
+
+They put humans out of slavery.
+
+- Loans
+- Image Recognistion
+- Fraud Detection
+- Receptionist/Customare Care
+
+https://www.nytimes.com/2017/06/24/opinion/sunday/artificial-intelligence-economic-inequality.html
